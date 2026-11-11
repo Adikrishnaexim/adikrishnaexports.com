@@ -1,0 +1,160 @@
+﻿Type,Name,Group,Slug,File to place (exact name),Size (px),Photo added?
+Group banner,Personal Care,,personal-care,images/groups/personal-care.jpg,1600 x 500,MISSING
+Group banner,Home Care,,home-care,images/groups/home-care.jpg,1600 x 500,MISSING
+Group banner,Ayurvedic Products,,ayurvedic,images/groups/ayurvedic.jpg,1600 x 500,MISSING
+Group banner,Incense & Dhoop,,incense-dhoop,images/groups/incense-dhoop.jpg,1600 x 500,MISSING
+Group banner,Grains and Cereal,,grains-and-cereal,images/groups/grains-and-cereal.jpg,1600 x 500,YES
+Group banner,Pulses,,pulses,images/groups/pulses.jpg,1600 x 500,YES
+Group banner,Spices,,spices,images/groups/spices.jpg,1600 x 500,YES
+Group banner,Fruits,,fruits,images/groups/fruits.jpg,1600 x 500,YES
+Group banner,Vegetables,,vegetables,images/groups/vegetables.jpg,1600 x 500,MISSING
+Group banner,Oilseeds,,oilseeds,images/groups/oilseeds.jpg,1600 x 500,YES
+Group banner,Floriculture,,floriculture,images/groups/floriculture.jpg,1600 x 500,YES
+Group banner,Herbs,,herbs,images/groups/herbs.jpg,1600 x 500,MISSING
+Group banner,Dry Fruits,,dry-fruits,images/groups/dry-fruits.jpg,1600 x 500,YES
+Group banner,Dehydrated Products,,dehydrated-products,images/groups/dehydrated-products.jpg,1600 x 500,MISSING
+Group banner,Superfoods,,superfoods,images/groups/superfoods.jpg,1600 x 500,YES
+Group banner,Processed Foods,,processed-foods,images/groups/processed-foods.jpg,1600 x 500,MISSING
+Product photo,Ashwagandha Powder,Ayurvedic Products,ashwagandha-powder,images/products/ashwagandha-powder.jpg,800 x 640,YES
+Product photo,Triphala Powder,Ayurvedic Products,triphala-powder,images/products/triphala-powder.jpg,800 x 640,MISSING
+Product photo,Amla Powder,Ayurvedic Products,amla-powder,images/products/amla-powder.jpg,800 x 640,YES
+Product photo,Herbal Oils,Ayurvedic Products,herbal-oils,images/products/herbal-oils.jpg,800 x 640,MISSING
+Product photo,Giloy,Ayurvedic Products,giloy,images/products/giloy.jpg,800 x 640,YES
+Product photo,Shatavari,Ayurvedic Products,shatavari,images/products/shatavari.jpg,800 x 640,MISSING
+Product photo,Tulsi,Ayurvedic Products,tulsi,images/products/tulsi.jpg,800 x 640,YES
+Product photo,Neem,Ayurvedic Products,neem,images/products/neem.jpg,800 x 640,YES
+Product photo,Herbal Teas,Ayurvedic Products,herbal-teas,images/products/herbal-teas.jpg,800 x 640,MISSING
+Product photo,Chyawanprash,Ayurvedic Products,chyawanprash,images/products/chyawanprash.jpg,800 x 640,MISSING
+Product photo,Aloe Vera Juice,Ayurvedic Products,aloe-vera-juice,images/products/aloe-vera-juice.jpg,800 x 640,YES
+Product photo,Dehydrated Onion,Dehydrated Products,dehydrated-onion,images/products/dehydrated-onion.jpg,800 x 640,YES
+Product photo,Dehydrated Garlic,Dehydrated Products,dehydrated-garlic,images/products/dehydrated-garlic.jpg,800 x 640,YES
+Product photo,Dehydrated Vegetables,Dehydrated Products,dehydrated-vegetables,images/products/dehydrated-vegetables.jpg,800 x 640,MISSING
+Product photo,Dehydrated Ginger,Dehydrated Products,dehydrated-ginger,images/products/dehydrated-ginger.jpg,800 x 640,YES
+Product photo,Dried Mango Slices,Dehydrated Products,dried-mango-slices,images/products/dried-mango-slices.jpg,800 x 640,YES
+Product photo,Tomato Powder,Dehydrated Products,tomato-powder,images/products/tomato-powder.jpg,800 x 640,YES
+Product photo,Cashew Kernels,Dry Fruits,cashew-kernels,images/products/cashew-kernels.jpg,800 x 640,YES
+Product photo,Almonds,Dry Fruits,almonds,images/products/almonds.jpg,800 x 640,YES
+Product photo,Raisins,Dry Fruits,raisins,images/products/raisins.jpg,800 x 640,YES
+Product photo,Walnuts,Dry Fruits,walnuts,images/products/walnuts.jpg,800 x 640,YES
+Product photo,Dates,Dry Fruits,dates,images/products/dates.jpg,800 x 640,YES
+Product photo,Dried Figs (Anjeer),Dry Fruits,dried-figs-anjeer,images/products/dried-figs-anjeer.jpg,800 x 640,YES
+Product photo,Fresh Cut Roses,Floriculture,fresh-cut-roses,images/products/fresh-cut-roses.jpg,800 x 640,MISSING
+Product photo,Marigold,Floriculture,marigold,images/products/marigold.jpg,800 x 640,MISSING
+Product photo,Jasmine,Floriculture,jasmine,images/products/jasmine.jpg,800 x 640,MISSING
+Product photo,Tuberose,Floriculture,tuberose,images/products/tuberose.jpg,800 x 640,MISSING
+Product photo,Gladiolus,Floriculture,gladiolus,images/products/gladiolus.jpg,800 x 640,MISSING
+Product photo,Dried Rose Petals,Floriculture,dried-rose-petals,images/products/dried-rose-petals.jpg,800 x 640,MISSING
+Product photo,Banana,Fruits,banana,images/products/banana.jpg,800 x 640,YES
+Product photo,Mango,Fruits,mango,images/products/mango.jpg,800 x 640,YES
+Product photo,Pomegranate,Fruits,pomegranate,images/products/pomegranate.jpg,800 x 640,YES
+Product photo,Grapes,Fruits,grapes,images/products/grapes.jpg,800 x 640,YES
+Product photo,Orange & Citrus,Fruits,orange-and-citrus,images/products/orange-and-citrus.jpg,800 x 640,YES
+Product photo,Papaya,Fruits,papaya,images/products/papaya.jpg,800 x 640,YES
+Product photo,Guava,Fruits,guava,images/products/guava.jpg,800 x 640,MISSING
+Product photo,Pineapple,Fruits,pineapple,images/products/pineapple.jpg,800 x 640,YES
+Product photo,Watermelon,Fruits,watermelon,images/products/watermelon.jpg,800 x 640,YES
+Product photo,Coconut,Fruits,coconut,images/products/coconut.jpg,800 x 640,YES
+Product photo,Rice,Grains and Cereal,rice,images/products/rice.jpg,800 x 640,YES
+Product photo,Wheat,Grains and Cereal,wheat,images/products/wheat.jpg,800 x 640,YES
+Product photo,Maize (Corn),Grains and Cereal,maize-corn,images/products/maize-corn.jpg,800 x 640,YES
+Product photo,Millets,Grains and Cereal,millets,images/products/millets.jpg,800 x 640,YES
+Product photo,Sorghum (Jowar),Grains and Cereal,sorghum-jowar,images/products/sorghum-jowar.jpg,800 x 640,YES
+Product photo,Barley,Grains and Cereal,barley,images/products/barley.jpg,800 x 640,YES
+Product photo,Oats,Grains and Cereal,oats,images/products/oats.jpg,800 x 640,YES
+Product photo,Buckwheat,Grains and Cereal,buckwheat,images/products/buckwheat.jpg,800 x 640,MISSING
+Product photo,Dried Mint,Herbs,dried-mint,images/products/dried-mint.jpg,800 x 640,YES
+Product photo,Curry Leaves,Herbs,curry-leaves,images/products/curry-leaves.jpg,800 x 640,YES
+Product photo,Kasuri Methi,Herbs,kasuri-methi,images/products/kasuri-methi.jpg,800 x 640,YES
+Product photo,Dried Coriander Leaves,Herbs,dried-coriander-leaves,images/products/dried-coriander-leaves.jpg,800 x 640,YES
+Product photo,Dried Oregano & Thyme,Herbs,dried-oregano-and-thyme,images/products/dried-oregano-and-thyme.jpg,800 x 640,MISSING
+Product photo,Floor Cleaners,Home Care,floor-cleaners,images/products/floor-cleaners.jpg,800 x 640,MISSING
+Product photo,Dishwash,Home Care,dishwash,images/products/dishwash.jpg,800 x 640,MISSING
+Product photo,Room Fresheners,Home Care,room-fresheners,images/products/room-fresheners.jpg,800 x 640,MISSING
+Product photo,Laundry Detergent,Home Care,laundry-detergent,images/products/laundry-detergent.jpg,800 x 640,MISSING
+Product photo,Toilet & Surface Cleaners,Home Care,toilet-and-surface-cleaners,images/products/toilet-and-surface-cleaners.jpg,800 x 640,MISSING
+Product photo,Masala Agarbatti,Incense & Dhoop,masala-agarbatti,images/products/masala-agarbatti.jpg,800 x 640,MISSING
+Product photo,Dhoop Sticks,Incense & Dhoop,dhoop-sticks,images/products/dhoop-sticks.jpg,800 x 640,MISSING
+Product photo,Dhoop Cones,Incense & Dhoop,dhoop-cones,images/products/dhoop-cones.jpg,800 x 640,MISSING
+Product photo,Havan Samagri,Incense & Dhoop,havan-samagri,images/products/havan-samagri.jpg,800 x 640,MISSING
+Product photo,Camphor,Incense & Dhoop,camphor,images/products/camphor.jpg,800 x 640,MISSING
+Product photo,Sambrani (Benzoin),Incense & Dhoop,sambrani-benzoin,images/products/sambrani-benzoin.jpg,800 x 640,MISSING
+Product photo,Groundnuts,Oilseeds,groundnuts,images/products/groundnuts.jpg,800 x 640,YES
+Product photo,Sesame Seeds,Oilseeds,sesame-seeds,images/products/sesame-seeds.jpg,800 x 640,YES
+Product photo,Sunflower Seeds,Oilseeds,sunflower-seeds,images/products/sunflower-seeds.jpg,800 x 640,YES
+Product photo,Flaxseed,Oilseeds,flaxseed,images/products/flaxseed.jpg,800 x 640,YES
+Product photo,Soybean,Oilseeds,soybean,images/products/soybean.jpg,800 x 640,YES
+Product photo,Castor Seeds,Oilseeds,castor-seeds,images/products/castor-seeds.jpg,800 x 640,YES
+Product photo,Niger Seeds,Oilseeds,niger-seeds,images/products/niger-seeds.jpg,800 x 640,YES
+Product photo,Herbal Soaps,Personal Care,herbal-soaps,images/products/herbal-soaps.jpg,800 x 640,MISSING
+Product photo,Hair & Body Oils,Personal Care,hair-and-body-oils,images/products/hair-and-body-oils.jpg,800 x 640,MISSING
+Product photo,Aloe Vera Gel,Personal Care,aloe-vera-gel,images/products/aloe-vera-gel.jpg,800 x 640,YES
+Product photo,Herbal Face Packs,Personal Care,herbal-face-packs,images/products/herbal-face-packs.jpg,800 x 640,MISSING
+Product photo,Shampoo & Conditioner,Personal Care,shampoo-and-conditioner,images/products/shampoo-and-conditioner.jpg,800 x 640,MISSING
+Product photo,Henna,Personal Care,henna,images/products/henna.jpg,800 x 640,MISSING
+Product photo,Herbal Toothpaste,Personal Care,herbal-toothpaste,images/products/herbal-toothpaste.jpg,800 x 640,MISSING
+Product photo,Essential Oils,Personal Care,essential-oils,images/products/essential-oils.jpg,800 x 640,MISSING
+Product photo,Ready-to-Eat Meals,Processed Foods,ready-to-eat-meals,images/products/ready-to-eat-meals.jpg,800 x 640,YES
+Product photo,Flours,Processed Foods,flours,images/products/flours.jpg,800 x 640,YES
+Product photo,Edible Oils,Processed Foods,edible-oils,images/products/edible-oils.jpg,800 x 640,YES
+Product photo,Snacks,Processed Foods,snacks,images/products/snacks.jpg,800 x 640,YES
+Product photo,Pickles & Sauces,Processed Foods,pickles-and-sauces,images/products/pickles-and-sauces.jpg,800 x 640,YES
+Product photo,Spice Blends (Masalas),Processed Foods,spice-blends-masalas,images/products/spice-blends-masalas.jpg,800 x 640,YES
+Product photo,Papad,Processed Foods,papad,images/products/papad.jpg,800 x 640,YES
+Product photo,Ghee,Processed Foods,ghee,images/products/ghee.jpg,800 x 640,YES
+Product photo,Jaggery,Processed Foods,jaggery,images/products/jaggery.jpg,800 x 640,YES
+Product photo,Honey,Processed Foods,honey,images/products/honey.jpg,800 x 640,YES
+Product photo,Tea,Processed Foods,tea,images/products/tea.jpg,800 x 640,MISSING
+Product photo,Coffee,Processed Foods,coffee,images/products/coffee.jpg,800 x 640,YES
+Product photo,Rice & Wheat Products,Processed Foods,rice-and-wheat-products,images/products/rice-and-wheat-products.jpg,800 x 640,YES
+Product photo,Instant Mixes,Processed Foods,instant-mixes,images/products/instant-mixes.jpg,800 x 640,YES
+Product photo,Chickpeas,Pulses,chickpeas,images/products/chickpeas.jpg,800 x 640,YES
+Product photo,Toor (Pigeon Pea),Pulses,toor-pigeon-pea,images/products/toor-pigeon-pea.jpg,800 x 640,YES
+Product photo,Moong (Green Gram),Pulses,moong-green-gram,images/products/moong-green-gram.jpg,800 x 640,YES
+Product photo,Masoor (Red Lentil),Pulses,masoor-red-lentil,images/products/masoor-red-lentil.jpg,800 x 640,YES
+Product photo,Urad (Black Gram),Pulses,urad-black-gram,images/products/urad-black-gram.jpg,800 x 640,YES
+Product photo,Kidney Beans (Rajma),Pulses,kidney-beans-rajma,images/products/kidney-beans-rajma.jpg,800 x 640,YES
+Product photo,Dry Green Peas,Pulses,dry-green-peas,images/products/dry-green-peas.jpg,800 x 640,YES
+Product photo,Black-eyed Peas,Pulses,black-eyed-peas,images/products/black-eyed-peas.jpg,800 x 640,YES
+Product photo,Turmeric,Spices,turmeric,images/products/turmeric.jpg,800 x 640,YES
+Product photo,Cumin Seeds,Spices,cumin-seeds,images/products/cumin-seeds.jpg,800 x 640,YES
+Product photo,Red Chilli,Spices,red-chilli,images/products/red-chilli.jpg,800 x 640,YES
+Product photo,Coriander Seeds,Spices,coriander-seeds,images/products/coriander-seeds.jpg,800 x 640,YES
+Product photo,Black Pepper,Spices,black-pepper,images/products/black-pepper.jpg,800 x 640,YES
+Product photo,Green Cardamom,Spices,green-cardamom,images/products/green-cardamom.jpg,800 x 640,YES
+Product photo,Black Cardamom,Spices,black-cardamom,images/products/black-cardamom.jpg,800 x 640,YES
+Product photo,Cloves,Spices,cloves,images/products/cloves.jpg,800 x 640,YES
+Product photo,Cinnamon,Spices,cinnamon,images/products/cinnamon.jpg,800 x 640,YES
+Product photo,Fennel Seeds,Spices,fennel-seeds,images/products/fennel-seeds.jpg,800 x 640,YES
+Product photo,Fenugreek Seeds,Spices,fenugreek-seeds,images/products/fenugreek-seeds.jpg,800 x 640,YES
+Product photo,Mustard Seeds,Spices,mustard-seeds,images/products/mustard-seeds.jpg,800 x 640,YES
+Product photo,Ajwain (Carom),Spices,ajwain-carom,images/products/ajwain-carom.jpg,800 x 640,YES
+Product photo,Dry Ginger,Spices,dry-ginger,images/products/dry-ginger.jpg,800 x 640,YES
+Product photo,Nutmeg & Mace,Spices,nutmeg-and-mace,images/products/nutmeg-and-mace.jpg,800 x 640,YES
+Product photo,Star Anise & Bay Leaf,Spices,star-anise-and-bay-leaf,images/products/star-anise-and-bay-leaf.jpg,800 x 640,YES
+Product photo,Poppy Seeds,Spices,poppy-seeds,images/products/poppy-seeds.jpg,800 x 640,YES
+Product photo,Tamarind,Spices,tamarind,images/products/tamarind.jpg,800 x 640,YES
+Product photo,Asafoetida (Hing),Spices,asafoetida-hing,images/products/asafoetida-hing.jpg,800 x 640,YES
+Product photo,Chia Seeds,Superfoods,chia-seeds,images/products/chia-seeds.jpg,800 x 640,YES
+Product photo,Quinoa,Superfoods,quinoa,images/products/quinoa.jpg,800 x 640,YES
+Product photo,Moringa Powder,Superfoods,moringa-powder,images/products/moringa-powder.jpg,800 x 640,YES
+Product photo,Hemp Seeds,Superfoods,hemp-seeds,images/products/hemp-seeds.jpg,800 x 640,YES
+Product photo,Flax Seeds,Superfoods,flax-seeds,images/products/flax-seeds.jpg,800 x 640,YES
+Product photo,Amaranth,Superfoods,amaranth,images/products/amaranth.jpg,800 x 640,YES
+Product photo,Basil Seeds (Sabja),Superfoods,basil-seeds-sabja,images/products/basil-seeds-sabja.jpg,800 x 640,YES
+Product photo,Makhana (Fox Nuts),Superfoods,makhana-fox-nuts,images/products/makhana-fox-nuts.jpg,800 x 640,YES
+Product photo,Pumpkin Seeds,Superfoods,pumpkin-seeds,images/products/pumpkin-seeds.jpg,800 x 640,YES
+Product photo,Wheatgrass & Spirulina Powder,Superfoods,wheatgrass-and-spirulina-powder,images/products/wheatgrass-and-spirulina-powder.jpg,800 x 640,YES
+Product photo,Turmeric Latte Mix,Superfoods,turmeric-latte-mix,images/products/turmeric-latte-mix.jpg,800 x 640,YES
+Product photo,Onion,Vegetables,onion,images/products/onion.jpg,800 x 640,YES
+Product photo,Potato,Vegetables,potato,images/products/potato.jpg,800 x 640,YES
+Product photo,Tomato,Vegetables,tomato,images/products/tomato.jpg,800 x 640,YES
+Product photo,Green Chilli,Vegetables,green-chilli,images/products/green-chilli.jpg,800 x 640,YES
+Product photo,Okra (Bhindi),Vegetables,okra-bhindi,images/products/okra-bhindi.jpg,800 x 640,YES
+Product photo,Ginger,Vegetables,ginger,images/products/ginger.jpg,800 x 640,YES
+Product photo,Garlic,Vegetables,garlic,images/products/garlic.jpg,800 x 640,YES
+Product photo,Drumstick,Vegetables,drumstick,images/products/drumstick.jpg,800 x 640,YES
+Product photo,Brinjal,Vegetables,brinjal,images/products/brinjal.jpg,800 x 640,YES
+Product photo,Cauliflower & Cabbage,Vegetables,cauliflower-and-cabbage,images/products/cauliflower-and-cabbage.jpg,800 x 640,YES
+Product photo,Bitter Gourd,Vegetables,bitter-gourd,images/products/bitter-gourd.jpg,800 x 640,YES
+Product photo,Green Peas,Vegetables,green-peas,images/products/green-peas.jpg,800 x 640,MISSING
+Product photo,Carrot,Vegetables,carrot,images/products/carrot.jpg,800 x 640,YES
