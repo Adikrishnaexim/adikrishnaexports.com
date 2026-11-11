@@ -1,0 +1,154 @@
+/* ===== fit.css: compact layouts so key sections show without scrolling ===== */
+
+/* --- compact header (desktop) --- */
+.top .wrap{min-height:32px}
+header .wrap{height:76px}
+.logo img{height:58px}
+
+/* --- inner page banner --- */
+.phero{padding:22px 0 18px}
+.phero h1{font-size:38px;margin:2px 0 6px}
+.phero p{font-size:14.5px}
+
+/* --- Profile: Who we are --- */
+.sec{padding:30px 0}
+.sec h2{font-size:30px;margin-bottom:10px}
+.two-col{gap:34px}
+.two-col p{margin-bottom:8px;line-height:1.5}
+.list{gap:6px;margin-top:6px}
+.stat{padding:14px 18px}.stat b{font-size:30px}
+.steps li{padding:14px 16px}.steps li::before{margin-bottom:6px}
+
+/* --- Contact: whole page in one screen --- */
+.contact{padding:24px 0 28px}
+.cgrid2{gap:48px;align-items:center}
+.chead{font-size:48px;margin:8px 0 12px}
+.clead{font-size:15px;line-height:1.55;margin-bottom:22px}
+.cilist{gap:16px}
+.cilist li{gap:16px}
+.cico{width:44px;height:44px}.cico svg{width:19px;height:19px}
+.cilist h3{font-size:22px;margin-bottom:2px}
+.cilist p{font-size:14.5px;line-height:1.5}
+.cform{padding:26px 30px;border-radius:20px}
+.cform h2{font-size:34px;margin:6px 0 16px}
+.cf-row{gap:12px;margin-bottom:12px}
+.cf input,.cf textarea{padding:12px 20px}
+.cf textarea{min-height:96px;height:96px}
+.btn.pill{padding:13px 26px;margin-top:14px}
+.cf-status{margin-top:10px;padding:10px 14px}
+
+/* --- quote popup: fits on screen, no inner scroll --- */
+.modal{padding:10px}
+.box{padding:18px 22px;max-height:98vh}
+.box h3{font-size:24px}
+.box p.s{margin-bottom:6px}
+.box label{margin:6px 0 2px;font-size:12px}
+.box input,.box select,.box textarea{padding:8px 10px}
+.box textarea{height:56px;resize:none}
+.box button.btn{margin-top:10px;padding:11px 20px}
+.ok{margin-top:8px;padding:9px}
+
+/* --- short laptop screens: squeeze further --- */
+@media(min-width:901px) and (max-height:720px){
+  header .wrap{height:64px}.logo img{height:48px}
+  .phero{padding:14px 0 12px}.phero h1{font-size:32px}.phero p{font-size:13.5px}
+  .sec{padding:20px 0}.sec h2{font-size:26px}
+  .stat{padding:10px 16px}.stat b{font-size:26px}
+  .contact{padding:14px 0 16px}
+  .chead{font-size:40px;margin:4px 0 8px}
+  .clead{margin-bottom:14px;font-size:14px}
+  .cilist{gap:12px}.cilist h3{font-size:20px}
+  .cform{padding:18px 26px}.cform h2{font-size:28px;margin:4px 0 10px}
+  .cf input,.cf textarea{padding:10px 18px}
+  .cf textarea{min-height:76px;height:76px}
+  .btn.pill{padding:11px 24px;margin-top:10px}
+}
+
+/* --- phones/tablets: contact stacks naturally, keep it tight --- */
+@media(max-width:900px){
+  header .wrap{height:60px}.logo img{height:42px}
+  .contact{padding:20px 0 28px}
+  .cgrid2{gap:22px;align-items:start}
+  .chead{font-size:34px}.clead{margin-bottom:14px}
+  .cilist{gap:12px}
+  .cform{padding:20px 16px}.cform h2{font-size:26px}
+  .cf textarea{min-height:90px;height:90px}
+  .phero{padding:18px 0 14px}.phero h1{font-size:28px}
+  .sec{padding:22px 0}.sec h2{font-size:24px}
+}
+
+/* --- Google Translate widget (replaces EN/AR/FR/ES dropdown) --- */
+/* hide Google's injected top banner and keep page position */
+.goog-te-banner-frame,.skiptranslate>iframe{display:none!important}
+body{top:0!important}
+.goog-tooltip,.goog-tooltip:hover{display:none!important}
+.goog-text-highlight{background:none!important;box-shadow:none!important}
+
+/* keep the translator visible on small phones (currency hides, language stays) */
+@media(max-width:560px){
+  .top .tools{display:flex}
+  .top .tools #cur{display:none}
+}
+
+/* phones: popup is a tight sheet; submit button stays pinned and always visible */
+@media(max-width:900px){
+  .modal{padding:0;align-items:end}
+  .box{max-height:94vh;max-height:94dvh;border-radius:16px 16px 0 0;padding:16px 16px 0;overflow-y:auto}
+  .box h3{font-size:22px;padding-right:30px}
+  .box label{margin:6px 0 2px}
+  .box .two{gap:0 10px}
+  .box textarea{height:60px}
+  .box form{display:flex;flex-direction:column}
+  .box button.btn[type=submit]{position:sticky;bottom:0;z-index:3;margin:10px 0 0;box-shadow:0 -10px 14px 6px #fff}
+  .box .ok{order:3;margin-bottom:12px}
+  .box form::after{content:'';height:0}
+}
+
+/* ===== Nav: parent items are real links (Agro Products, Consumer Products, Private Label, Brands) ===== */
+nav .dd>button.ddt{padding:8px 0 8px 3px;width:auto;gap:0;min-width:14px}
+nav .dd>button.ddt::after{transform:translateY(-2px)}
+nav .dd>.ddl{padding-right:0}
+@media(max-width:900px){
+  nav>ul>li.dd{display:flex;flex-wrap:wrap;align-items:center}
+  nav .dd>.ddl{flex:1;width:auto;padding:15px 18px}
+  nav .dd>button.ddt{flex:none;width:56px;height:50px;padding:0;justify-content:center}
+  nav .dd>button.ddt::after{font-size:18px}
+  nav .dd>.menu{flex:0 0 100%}
+}
+
+/* ===== Translate: [globe] Translate [arrow] — the whole pill is the click target ===== */
+.top .gt-wrap{position:relative;display:inline-flex!important;align-items:center;gap:6px;height:28px;padding:0 10px 0 9px;border:1.5px solid #fff;border-radius:16px;background:#ffffff26;color:#fff;white-space:nowrap;flex:0 0 auto;cursor:pointer}
+.top .gt-wrap:hover{background:#ffffff40}
+.top .gt-wrap .gt-ico{display:inline-flex!important;font-size:14px;line-height:1;gap:0}
+.top .gt-wrap .gt-ico::after{content:none}
+.top .gt-wrap .gt-label{display:inline!important;font:700 12px/1 "Nunito Sans",Arial,sans-serif;color:#fff}
+.top .gt-wrap::after{content:"";width:6px;height:6px;border-right:2px solid #fff;border-bottom:2px solid #fff;transform:rotate(45deg) translate(-2px,-2px);margin-left:2px;flex:0 0 auto}
+/* the real <select> sits invisibly over the whole pill so a click anywhere opens the language list */
+.top .gt-wrap .gt-select{position:absolute;inset:0;width:100%;height:100%;opacity:0;cursor:pointer;border:0;padding:0;margin:0;font-size:14px;-webkit-appearance:none;appearance:none;background:none;color:#000}
+.top .gt-wrap .gt-select option{color:#000;background:#fff}
+.top .gt-wrap .gt-select:disabled{cursor:not-allowed}
+.top .gt-wrap:has(.gt-select:disabled){opacity:.55}
+#google_translate_element{position:absolute;width:1px;height:1px;overflow:hidden;opacity:0;pointer-events:none}
+.top .tools{align-items:center;flex-wrap:nowrap}
+.top em,.trust em,.pe,.gt-ico{font-family:"Apple Color Emoji","Segoe UI Emoji","Noto Color Emoji","Twemoji Mozilla",sans-serif;font-style:normal}
+
+/* ===== WhatsApp button: icon + "Connect" only ===== */
+.wa{gap:7px;padding:9px 16px 9px 10px;font-size:14px;right:16px;bottom:16px}
+.wa svg{width:26px;height:26px}
+@media(max-width:560px){.wa{padding:8px 14px 8px 9px;font-size:13px;right:12px;bottom:12px}.wa svg{width:24px;height:24px}}
+
+/* ===== Homepage "Our product range": no icons, green fading line between photo and details ===== */
+.range .card .bd{padding:0 16px 16px}
+.range .card .bd::before{content:"";display:block;height:3px;margin:0 -16px 12px;background:linear-gradient(90deg,transparent 0,var(--g) 22%,var(--g) 78%,transparent 100%)}
+
+/* ===== Homepage hero: taller so the pictures show properly; images are never stretched (cover) ===== */
+.hero{height:clamp(360px,30vw,520px)}
+.hero-slides span{background-repeat:no-repeat;background-size:cover}
+@media(max-width:1100px){.hero{height:auto}}
+@media(min-width:1101px){.hero-slides{inset:0 0 0 30%}}
+
+/* Hero slideshow always plays. If the device asks for reduced motion, it uses a gentle cross-fade only (no sliding or zooming). */
+@keyframes heroFade{0%{opacity:0}4%{opacity:1}25%{opacity:1}29%{opacity:0}100%{opacity:0}}
+@media(prefers-reduced-motion:reduce){
+  .hero-slides span{animation-name:heroFade;animation-duration:24s;animation-timing-function:linear;animation-iteration-count:infinite;transform:none}
+}
